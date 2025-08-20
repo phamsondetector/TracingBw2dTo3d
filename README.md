@@ -1,2 +1,5 @@
 # TracingBw2dTo3d
 Effortlessly convert black-and-white 2D images into 3D models using Geometry Nodes. This add-on automates the creation and connection of nodes like Grid, Image Texture, Mesh to Curve, and Extrude Mesh. S
+Transform your 2D artwork into stunning 3D models with the Tracing Black and White 2D to 3D addon for Blender. This powerful tool allows artists and designers to easily trace black lines on a white background, converting flat images into dynamic three-dimensional objects. Simply import your black and white 2D artwork, and watch as the addon automatically identifies and extrudes the lines, creating intricate 3D shapes.
+
+Once the 3D model is generated, a geometry tree is created alongside it, allowing users to delve deeper into customization options. This feature enables you to fine-tune the model further, giving you complete control over the final output. Whether you’re looking to enhance your illustrations, create unique sculptures, or streamline your modeling workflow, this addon is designed to bring your creative vision to life with minimal effort.
